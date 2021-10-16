@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: BLACKHUNTER
+Build-Jdk: 16.0.2
+Implementation-Title: besocial-social-network
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: murari
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/besocial-social-network
+Created-By: Maven Integration for Eclipse
+
